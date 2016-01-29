@@ -1,0 +1,1 @@
+# phpcheckstyle_without_namespace
